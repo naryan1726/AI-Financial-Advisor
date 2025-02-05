@@ -1,0 +1,10 @@
+crewai
+groq
+streamlit
+reportlab
+python-dotenv
+langchain-groq
+langchain
+langchain-community
+langchain-anthropic
+langchain-openai
